@@ -14,13 +14,11 @@
         "title": "Artisan Sandwich Platter",
         "description": "Experience the artistry of our artisan sandwich platter, featuring a mouthwatering array of sandwiches made with love and care. Perfect for meetings, gatherings, or any occasion that calls for delicious fare.",
         "price": "£12 per person"
-     }
- {
+     },
+     {
         "title": "Gourmet Sandwich Selection",
         "description": "Savor the flavors of our gourmet sandwich selection, featuring a range of artisanal bread filled with premium ingredients. Whether you crave classic combinations or crave inventive twists, our sandwiches are guaranteed to satisfy your appetite.",
         "price": "£10 per person"
-     },
+     }
    ]
 }
-
- 
