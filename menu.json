@@ -1,26 +1,25 @@
-   {
-      "Menus":[
-        {
-           {
-           "image": "https://ibb.co/zS0q4p7",
-           "title": "Celebration Cakes Galore",   
-           "description": "Indulge in a variety of celebration cakes, each meticulously crafted to add sweetness to your special moments. From towering wedding cakes adorned with intricate designs to whimsical birthday cakes bursting with color, our creations are sure to make your celebration unforgettable.",
-           "price": "Prices vary based on size and design"
-        },
-        {
-           "title": "Decadent Cake Delights",
-           "description": "Treat yourself to our decadent cake delights, made with the finest ingredients and expert craftsmanship. From luscious chocolate cakes to light and fluffy sponge cakes, each slice is a taste of pure bliss.",
-           "price": "£6 per slice"
-        },
-        {
-           "title": "Artisan Sandwich Platter",
-           "description": "Experience the artistry of our artisan sandwich platter, featuring a mouthwatering array of sandwiches made with love and care. Perfect for meetings, gatherings, or any occasion that calls for delicious fare.",
-           "price": "£12 per person"
-        },
-        {
-           "title": "Gourmet Sandwich Selection",
-           "description": "Savor the flavors of our gourmet sandwich selection, featuring a range of artisanal bread filled with premium ingredients. Whether you crave classic combinations or crave inventive twists, our sandwiches are guaranteed to satisfy your appetite.",
-           "price": "£10 per person"
-        }
-      ]
-   
+{
+  "Menus": [
+    {
+      "image": "https://ibb.co/zS0q4p7",
+      "title": "Celebration Cakes Galore",
+      "description": "Indulge in a variety of celebration cakes, each meticulously crafted to add sweetness to your special moments. From towering wedding cakes adorned with intricate designs to whimsical birthday cakes bursting with color, our creations are sure to make your celebration unforgettable.",
+      "price": "Prices vary based on size and design"
+    },
+    {
+      "title": "Decadent Cake Delights",
+      "description": "Treat yourself to our decadent cake delights, made with the finest ingredients and expert craftsmanship. From luscious chocolate cakes to light and fluffy sponge cakes, each slice is a taste of pure bliss.",
+      "price": "£6 per slice"
+    },
+    {
+      "title": "Artisan Sandwich Platter",
+      "description": "Experience the artistry of our artisan sandwich platter, featuring a mouthwatering array of sandwiches made with love and care. Perfect for meetings, gatherings, or any occasion that calls for delicious fare.",
+      "price": "£12 per person"
+    },
+    {
+      "title": "Gourmet Sandwich Selection",
+      "description": "Savor the flavors of our gourmet sandwich selection, featuring a range of artisanal bread filled with premium ingredients. Whether you crave classic combinations or crave inventive twists, our sandwiches are guaranteed to satisfy your appetite.",
+      "price": "£10 per person"
+    }
+  ]
+}
