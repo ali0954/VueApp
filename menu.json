@@ -1,46 +1,22 @@
 {
   "Menus": [
     {
-      "title": "Celebration Cakes",
-      "cake": "Indulge in a variety of celebration cakes...",
-      "description": "Prices vary based on size and design"
-      "price": "Prices vary based on size and design"
-      "cake": "Indulge in a variety of celebration cakes...",
-      "description": "Prices vary based on size and design"
-      "price": "Prices vary based on size and design"
-      "cake": "Indulge in a variety of celebration cakes...",
-      "description": "Prices vary based on size and design"
+      "title": "Celebration Cakes Galore",
+      "description": "Indulge in a variety of celebration cakes...",
       "price": "Prices vary based on size and design"
     },
     {
-      "title": "CupCakes",
-      "cup": "Indulge in a variety of celebration cakes...",
+      "title": "Decadent Cake Delights",
       "description": "Treat yourself to our decadent cake delights...",
       "price": "£6 per slice"
-      "cup": "Indulge in a variety of celebration cakes...",
-      "description": "Treat yourself to our decadent cake delights...",
-      "price": "£6 per slice"
-      "cup": "Indulge in a variety of celebration cakes...",
-      "description": "Treat yourself to our decadent cake delights...",
-      "price": "£6 per slice"
-  
     },
     {
-      "title": "Brownies",
-      "brownie": "Indulge in a variety of celebration cakes...",
-      "description": "Experience the artistry of our artisan sandwich platter...",
-      "price": "£12 per person"
-      "brownie": "Indulge in a variety of celebration cakes...",
-      "description": "Experience the artistry of our artisan sandwich platter...",
-      "price": "£12 per person"
-      "brownie": "Indulge in a variety of celebration cakes...",
+      "title": "Artisan Sandwich Platter",
       "description": "Experience the artistry of our artisan sandwich platter...",
       "price": "£12 per person"
     },
-
     {
-      "title": "Afternoon Tea Special",
-      "Tea": "Indulge in a variety of celebration cakes...",
+      "title": "Gourmet Sandwich Selection",
       "description": "Savor the flavors of our gourmet sandwich selection...",
       "price": "£10 per person"
     }
