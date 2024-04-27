@@ -2,38 +2,38 @@
   "Menus": [
     {
       "title": "Celebration Cakes",
-      "cake1": "Indulge in a variety of celebration cakes...",
+      "cake": "Indulge in a variety of celebration cakes...",
       "description": "Prices vary based on size and design"
       "price": "Prices vary based on size and design"
-      "cake2": "Indulge in a variety of celebration cakes...",
+      "cake": "Indulge in a variety of celebration cakes...",
       "description": "Prices vary based on size and design"
       "price": "Prices vary based on size and design"
-      "cake3": "Indulge in a variety of celebration cakes...",
+      "cake": "Indulge in a variety of celebration cakes...",
       "description": "Prices vary based on size and design"
       "price": "Prices vary based on size and design"
     },
     {
       "title": "CupCakes",
-      "cup1": "Indulge in a variety of celebration cakes...",
+      "cup": "Indulge in a variety of celebration cakes...",
       "description": "Treat yourself to our decadent cake delights...",
       "price": "£6 per slice"
-      "cup2": "Indulge in a variety of celebration cakes...",
+      "cup": "Indulge in a variety of celebration cakes...",
       "description": "Treat yourself to our decadent cake delights...",
       "price": "£6 per slice"
-      "cup3": "Indulge in a variety of celebration cakes...",
+      "cup": "Indulge in a variety of celebration cakes...",
       "description": "Treat yourself to our decadent cake delights...",
       "price": "£6 per slice"
   
     },
     {
       "title": "Brownies",
-      "brownie1": "Indulge in a variety of celebration cakes...",
+      "brownie": "Indulge in a variety of celebration cakes...",
       "description": "Experience the artistry of our artisan sandwich platter...",
       "price": "£12 per person"
-      "brownie2": "Indulge in a variety of celebration cakes...",
+      "brownie": "Indulge in a variety of celebration cakes...",
       "description": "Experience the artistry of our artisan sandwich platter...",
       "price": "£12 per person"
-      "brownie3": "Indulge in a variety of celebration cakes...",
+      "brownie": "Indulge in a variety of celebration cakes...",
       "description": "Experience the artistry of our artisan sandwich platter...",
       "price": "£12 per person"
     },
